@@ -6,6 +6,8 @@ This repository is a central access point for all the website-specific documenta
 # Note to the Devs of this Project
 Please do fill up this TODO file with any revisions that are needed to keep track of. If there are any other files that need to be added to this repository, please add an issue with an Enhancement/Feature label.
 
+## The TODO File
+This file is probably the first place to check for what the remaining tasks for the site are. Please see the link below that leads you to this page.
 # Tech Stack
 - Laravel Blade(PHP)
 - PHP

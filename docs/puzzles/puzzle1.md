@@ -1,3 +1,13 @@
+# Redirect to Other Pages
+| Page         | Link                                                                                               |
+|-----------|-------------------------------------------------------------------------------------------------------|
+| TODO      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/TODO.md)              |
+| HOME      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/homepage.md)          |
+| UPDATES   | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/updates.md)           |
+| PUZZLE 1  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle1.md)   |
+| PUZZLE 2  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle2.md)   |
+| PUZZLE 3  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle3.md)   |
+
 # Puzzle 1: Hidden in Plain Sight
 ## Objective:
 Users must use an image that is given to them on the puzzle webpage to decipher a key using the Vigenere Cipher. The goal of the puzzle is for the users to be more explorative with their solving ability. In short, they have to use what is already freely available to them to crack the puzzle.

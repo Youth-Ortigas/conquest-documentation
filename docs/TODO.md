@@ -1,3 +1,13 @@
+# Redirect to Other Pages
+| Page         | Link                                                                                               |
+|-----------|-------------------------------------------------------------------------------------------------------|
+| TODO      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/TODO.md)              |
+| HOME      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/homepage.md)          |
+| UPDATES   | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/updates.md)           |
+| PUZZLE 1  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle1.md)   |
+| PUZZLE 2  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle2.md)   |
+| PUZZLE 3  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle3.md)   |
+
 # Tasks
 - Conquest Logo is at the center
     - Replaces Glory and Grace
@@ -33,3 +43,7 @@
     - IF same number of attempts, who came first
 ## Puzzle 3 
 - A Riddle that must be solved by all team members to meet at the IRL venue and get the final victory
+
+# Documentation Task
+- Have a separate directory for Features
+    - Discuss each feature in its own md file for better segregation
