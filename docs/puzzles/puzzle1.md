@@ -29,8 +29,10 @@ Users must use an image that is given to them on the puzzle webpage to decipher 
 - [Theo.gg DEFCON 2024 Experience](https://www.youtube.com/watch?v=t5argfBT750)
 
 ## References From the Static Site Draft
+### This is meant to be a Red Herring Page as stated in the mechanics of this puzzle
 ![Image](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/images/Puzzle1ConceptRedHerring.png)
-This is meant to be a Red Herring Page as stated in the mechanics of this puzzle
+This page should show that the user was correct in their usage of the Vigenere Table and that the key they find in the image is correct
 
+### This is meant to be the final answer page, but it also is a misdirect as for what key to use for Puzzle 2. 
 ![Image](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/images/Puzzle1ConceptFinalAnswer.png)
-This is meant to be the final answer page, but it also is a misdirect as for what key to use for Puzzle 2. Armor, the Puzzle Key, or conquestclue can be possible keys to unlock Puzzle 2, however if users have found the Red Herring, we know that conquestclue by elimination is not the key.
+Armor, the Puzzle Key, or conquestclue can be possible keys to unlock Puzzle 2, however if users have found the Red Herring, we know that conquestclue by elimination is not the key.
