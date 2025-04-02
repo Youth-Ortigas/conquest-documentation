@@ -16,12 +16,12 @@ Please do fill up this TODO file with any revisions that are needed to keep trac
 
 # Accessing Documentation in this Repository
 You can access the content for the following website content
-| Page           | Link                                                                               |
-|----------------|------------------------------------------------------------------------------------|
-| TODO PAGE      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/TODO.md)            |
-| HOME PAGE      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/homepage.md)        |
-| UPDATES PAGE   | [Link](https://github.com/Youth-Ortigas/conquest-documentation/updates.md)         |
-| PUZZLE 1 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/puzzles/puzzle1.md) |
-| PUZZLE 2 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/puzzles/puzzle2.md) |
-| PUZZLE 3 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/puzzles/puzzle3.md) |
+| Page           | Link                                                                                    |
+|----------------|-----------------------------------------------------------------------------------------|
+| TODO PAGE      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/TODO.md)            |
+| HOME PAGE      | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/homepage.md)        |
+| UPDATES PAGE   | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/updates.md)         |
+| PUZZLE 1 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/puzzles/puzzle1.md) |
+| PUZZLE 2 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/puzzles/puzzle2.md) |
+| PUZZLE 3 PAGE  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/docs/puzzles/puzzle3.md) |
 
