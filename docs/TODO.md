@@ -9,6 +9,7 @@
     - gallery of Past Youth Camps
     - Possibly map of RRC
 - "Day-to-Day" (Programs) "Schedule" (Flow)
+- Site design must be aligned to the mood board:>
 
 # Dev Specifics
 - To build the process flow and other modules of the site
