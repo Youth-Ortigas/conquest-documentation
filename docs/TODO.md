@@ -37,6 +37,9 @@
     - IF same number of attempts, who came first
 ## Puzzle 3 
 - A Riddle that must be solved by all team members to meet at the IRL venue and get the final victory
+- Time-based lock
+    - locked before the time that the puzzle should be unlocked
+    - server configuration for time UTC
 
 # Documentation Task
 - Have a separate directory for Features
