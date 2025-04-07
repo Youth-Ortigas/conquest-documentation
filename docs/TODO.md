@@ -9,17 +9,12 @@
 | PUZZLE 3  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle3.md)   |
 
 # Tasks
-- Conquest Logo is at the center
-    - Replaces Glory and Grace
 - Make more screen resolution friendly (for varying resolutions)
-- Change "Flow" on homepage to Schedule
-- Instead of "Puzzles" it should be renamed to "Pre-camp activities"
 - Add:
     - Why is it Conquest
     - gallery of Past Youth Camps
     - Possibly map of RRC
-- "Day-to-Day" (Programs) "Schedule" (Flow)
-- Site design must be aligned to the mood board:>
+- Site design must be aligned to the mood board
 
 # Dev Specifics
 - To build the process flow and other modules of the site
