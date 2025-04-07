@@ -21,10 +21,9 @@
 - Home Page: Have a link somewhere near the bottom of the webpage that leads to the RRC website/FB Page, for a consistent, central space for information about the camp
 
 # User Accounts
-- Possible
+- Users Table in SQLite database
     - Name
-    - Registration Code 
-
+    - Registration code
 # Puzzle Revisions
 ## Puzzle 1
 - How to solve the puzzle using the Vigenere Table 
