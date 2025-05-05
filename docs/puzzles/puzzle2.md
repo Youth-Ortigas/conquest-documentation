@@ -36,16 +36,9 @@ The objective of this puzzle is to become more familiar with the overarching Scr
     - Once the user has filled in all 5 words, they can submit their answer and unlock the next puzzle
 - It is highly anticipated that this will only take a short time, which is why the 3rd stage takes much longer
 
-### Stage 3: Caesar Cipher
-- To empower all the math lovers, users in their teams will have to solve a math problem involving the 5 words that were filled in during the previous stage
-    - This math problem will be the key to solving the Caesar Cipher since the number they get will dictate the shifting alphabet of the Cipher
-- Their plaintext to solve will also be explicitly given, and it will be a phrase (whitespaces will be disregarded, since this phrase is the key to the final puzzle)
-
 ## Perks
 - Users will get to know the overarching text all the more
 - Users will be given a bit of a break for hard puzzle solving (at least until Stage 3)
-- Users will be introduced to a different encryption technique
-- Users will be empowered to work as a team to solve the puzzle together
 
 ## References From the Static Site Draft
 ### Unlocking Screen
