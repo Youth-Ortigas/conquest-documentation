@@ -20,13 +20,10 @@
 - To build the process flow and other modules of the site
 - Home Page: Have a link somewhere near the bottom of the webpage that leads to the RRC website/FB Page, for a consistent, central space for information about the camp
 
-# User Accounts
-- Users Table in SQLite database
-    - Name
-    - Registration code
 # Puzzle Revisions
 ## Puzzle 1
 - How to solve the puzzle using the Vigenere Table 
+- need to add more clear instructions
 ## Puzzle 2
 - Time-based lock
     - locked before the time that the puzzle should be unlocked
