@@ -9,3 +9,18 @@
 | PUZZLE 3  | [Link](https://github.com/Youth-Ortigas/conquest-documentation/blob/master/docs/puzzles/puzzle3.md)   |
 
 # Puzzle 3: Riddle Me This?
+## Objective:
+The goal of this puzzle is to have the users meet up with each other at a specific place by solving a riddle.
+
+## Tools available:
+- Yourself
+    - All you need to solve this puzzle is you, and the people around you who will help you figure out the riddle
+
+## Mechanics:
+### Stage 1: Riddle Stage
+
+
+
+### Stage 2: Team Challenge
+
+

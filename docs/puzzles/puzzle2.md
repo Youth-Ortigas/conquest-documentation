@@ -28,9 +28,10 @@ The objective of this puzzle is to become more familiar with the overarching Scr
 ### Stage 2: Fill in the Blanks
 - After finishing the Wordle puzzle this stage is a buffer stage that leads to the 3rd and final stage of the puzzle
 - This puzzle will explicitly show the Scripture of the event (best if ESV is used)
-- There will be 5 words that need to be filled in to unlock the final stage of the puzzle
+- There will be 6 words that need to be filled in to unlock the final stage of the puzzle
     - They will have varying length (letter count)
     - They will be specific (whether its a verb, or a noun, or an adjective)
+    - There are 3 VERBS and 3 NOUNS
 - Textboxes will be placed for the user to input all the words and submitted
     - Once the user has filled in all 5 words, they can submit their answer and unlock the next puzzle
 - It is highly anticipated that this will only take a short time, which is why the 3rd stage takes much longer
