@@ -22,7 +22,6 @@
 
 # Puzzle Revisions
 ## Puzzle 1
-- How to solve the puzzle using the Vigenere Table 
 - need to add more clear instructions
 ## Puzzle 2
 - Time-based lock
@@ -34,9 +33,7 @@
     - IF same number of attempts, who came first
 ## Puzzle 3 
 - A Riddle that must be solved by all team members to meet at the IRL venue and get the final victory
-- Time-based lock
-    - locked before the time that the puzzle should be unlocked
-    - server configuration for time UTC
+- Must add a team challenge portion with full mechanics
 
 # Documentation Task
 - Have a separate directory for Features
