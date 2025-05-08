@@ -10,6 +10,9 @@
 
 # Tasks
 - Make more screen resolution friendly (for varying resolutions)
+    - Site must be responsive and user-friendly for Mobile users
+    - MacOS screen resolutions
+    - Varying Windows Machines
 - Add:
     - Why is it Conquest
     - gallery of Past Youth Camps
