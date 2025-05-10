@@ -18,9 +18,10 @@ The goal of this puzzle is to have the users meet up with each other at a specif
 
 ## Mechanics:
 ### Stage 1: Riddle Stage
-
+This stage of the puzzle will only show plaintext on the webpage.
+There is no other content that will be displayed on the website
 
 
 ### Stage 2: Team Challenge
-
+This portion of the puzzle will no longer be part of the website
 

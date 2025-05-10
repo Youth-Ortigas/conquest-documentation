@@ -38,6 +38,14 @@
 - A Riddle that must be solved by all team members to meet at the IRL venue and get the final victory
 - Must add a team challenge portion with full mechanics
 
+## Additional Pages
+- Downloadables Page
+    - Where downloadable files/forms are located for uses to have access to.
+- Serve Team Pages
+    - Where all the serve team members will be shown with contact details for users who need to have contact information available
+    - Possible information includes:
+        - Contact Information (this should be a **requirement** )
+        - Committee Assigned
 # Documentation Task
 - Have a separate directory for Features
     - Discuss each feature in its own md file for better segregation
